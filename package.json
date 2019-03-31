@@ -1,0 +1,16 @@
+{
+  "name": "listing-searcher",
+  "version": "1.0.0",
+  "description": "Find Listing Ads URL (Japanese).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "isaxxx",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs-extra": "^7.0.1",
+    "puppeteer": "^1.14.0"
+  }
+}
